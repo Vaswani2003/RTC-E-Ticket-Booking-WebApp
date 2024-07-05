@@ -29,7 +29,7 @@ Follow these steps to set up the project locally:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/rtc-eticket-booking.git
+    git clone https://github.com/Vinamra2003/rtc-eticket-booking.git
     cd rtc-eticket-booking
     ```
 
